@@ -1,0 +1,5 @@
+name: Dice
+version: '${project.version}'
+main: ru.the_pavuk.dice.Dice
+api-version: 1.16
+authors: [ the_pavuk ]
